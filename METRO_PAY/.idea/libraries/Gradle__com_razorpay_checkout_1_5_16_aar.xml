@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.razorpay:checkout:1.5.16@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0b76dd794d2cecca4be6717609183356/checkout-1.5.16/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
